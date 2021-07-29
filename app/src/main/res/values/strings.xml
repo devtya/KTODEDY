@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KTODE</string>
+    <string name="page_title">Toko Dedy</string>
+    <string name="content_description_search">Cari barang</string>
+    <string name="content_description_add_new">Add new barang</string>
+    <string name="content_description_more">more</string>
+    <string name="more">more</string>
+    <string name="search">Pencarian</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_new">add new</string>
+    <string name="tambah_barang">Tambah Barang</string>
+    <string name="transaction">Transaction</string>
+</resources>
